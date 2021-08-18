@@ -46,7 +46,7 @@ for(auto x: layer_outputs){
 }
 
 	
-	cout<< "summed normalized values: \n \n"<< sum;
+	cout<< "sum of normalized values: \n \n"<< sum;
 */
 
 
